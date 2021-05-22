@@ -1,1 +1,1 @@
-from .cli import hello
+from .cli import hello, catch_fish
